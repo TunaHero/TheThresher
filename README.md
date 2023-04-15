@@ -1,5 +1,5 @@
 # The Thresher
-## v1.0
+## v1.0.1
 
 ![Logo 1](Files/Images/Logo1.JPG)
 
@@ -34,6 +34,7 @@ BOM and print settings to come...
 <details>
 <summary>Changes</summary>
 
+- 04-14-2023: Fixing a few parts after initial printing (v1.0.1)
 - 04-13-2023: Initial Release (v1.0)
 
 </details>
