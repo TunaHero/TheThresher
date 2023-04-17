@@ -1,5 +1,5 @@
 # The Thresher
-## v1.0.1
+## v1.0.2
 
 ![Logo 1](Files/Images/Logo1.JPG)
 
@@ -28,12 +28,30 @@ There are 2 main structural bars that give most of the nose to butt support for 
 
 Currently this blaster uses 11in springs and a caliburn sized polycarbonate air tube. The base design compresses the 11in spring to 5.1in but this can easily be modified by changing the location of the keyway on the Plunger Shaft.
 
-BOM and print settings to come...
+# BOM and Print Settings
+
+Below is a link to a google sheets for the BOM (to be included) and print settings. Print orientation to come.
+
+[LINK TO THE BOM AND STUFF](https://docs.google.com/spreadsheets/d/1nLO7fpEcI_VYeS-eTz37GeWA56AaHb-R7evM9M5RJZA/edit?usp=sharing)
 
 # Changelog
 <details>
 <summary>Changes</summary>
 
+- 04-17-2023: Post Print Update 1 (v1.0.2)
+	1. Updated Parts
+		- **Magwell Bottom**
+			- Added clearance for mag. It was quite tight.
+		- **Rail Support Back Limiter**
+			- Added cut-out for pump bar screws
+		- **Butt Plate**
+			- Partial redesign to be printable.
+			- Removed a few fillets to make the file size small enough to include directly
+	2. Removed Parts/Files
+		- **Butt Plate.md**
+			- The part is now small enough to not need a google drive link for the .stl
+	3. Other changes
+		- Added google sheets page for BOM and print settings
 - 04-14-2023: Fixing a few parts after initial printing (v1.0.1)
 - 04-13-2023: Initial Release (v1.0)
 
