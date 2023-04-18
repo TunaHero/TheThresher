@@ -44,6 +44,7 @@ Below is a link to a google sheets for the BOM (to be included) and print settin
 	1. Updated Parts
 		- **Turnaround**
 			- Fixed barrel o-ring support structure
+			- Fixed o-ring structure for plunger tube
 			- Added clearance for locking nuts between Turnaround and lower magwell
 - 04-17-2023: Prototyping Update 1 (v1.0.2)
 	1. Updated Parts
