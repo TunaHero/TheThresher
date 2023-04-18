@@ -1,5 +1,5 @@
 # The Thresher
-## v1.0.3
+## v1.0.4
 
 ![Logo 1](Files/Images/Logo1.JPG)
 
@@ -40,12 +40,23 @@ Below is a link to a google sheets for the BOM (to be included) and print settin
 <details>
 <summary>Changes</summary>
 
+- 04-18-2023: Prototyping Update 3 (v1.0.4)
+	1. Updated Parts
+		- **Center Block**
+			- Added clearance for locking nuts between Center Block and grip
+			- Added some clearance for plunger tube
+			- Changed the plunger tube support structure so that it doesn't require supports anymore
+			- Fixed the barrel locking nylon screw position
+		- **Nose**
+			- Fixed some part thickness that resulted in bad slicing
 - 04-17-2023: Prototyping Update 2 (v1.0.3)
 	1. Updated Parts
 		- **Turnaround**
 			- Fixed barrel o-ring support structure
 			- Fixed o-ring structure for plunger tube
 			- Added clearance for locking nuts between Turnaround and lower magwell
+	2. Other Changes
+		- Added gif of the reload action
 - 04-17-2023: Prototyping Update 1 (v1.0.2)
 	1. Updated Parts
 		- **Magwell Bottom**
