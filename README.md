@@ -1,5 +1,5 @@
 # The Thresher
-## v1.0.2
+## v1.0.3
 
 ![Logo 1](Files/Images/Logo1.JPG)
 
@@ -18,13 +18,15 @@ The Thresher is a bullpup pump action springer with a caliburn air volume. This 
 Sort of following the nautical theme I started with my previous blaster design, this one is named after the thresher shark which is known for its rather long caudal fin i.e. the bullpup magazine hanging off the back of the blaster. Yes, the mag is hanging off the bottom and the thresher shark has a long top fin but I felt like the name fit pretty well so...
 
 ### Design Overview
-![Logo 1](Files/Images/LeftSide1.JPG)
-![Logo 1](Files/Images/RightSide1.JPG)
-![Logo 1](Files/Images/Front1.JPG)
+![LeftSide1](Files/Images/LeftSide1.JPG)
+![RightSide1](Files/Images/RightSide1.JPG)
+![Front1](Files/Images/Front1.JPG)
 
 The core of this blaster is designed around a 200mm linear rail. This rail theoretically should alleviate any torsional force while pulling back the pump. I wanted this smooth actuation whale also adding to the overall structural rigidity of the blaster which is why I ended up deciding to use the linear rail rather than a rod or bearings straight on aluminum bars. Now, this does add some significant cost to the overall design. The cheap rail I bought was still $15… In the future I may modify the design to use simple aluminum bars and forgo the linear rail but that is unplanned future work at the current moment.
 
 There are 2 main structural bars that give most of the nose to butt support for the blaster. The first runs through the left side and the second runs through the top picatinny rail. They are currently rather long (26in and 22in…). If the length becomes an issue in the future I will probably cut them down and stack them much like the Caliburn v4. The blaster uses the same slotted bar design that the lynx has for converting the long pump action to a short dart reload but instead of running through the top it runs along the right side.
+
+![Pump Gif](Files/Images/ThresherPump.gif)
 
 Currently this blaster uses 11in springs and a caliburn sized polycarbonate air tube. The base design compresses the 11in spring to 5.1in but this can easily be modified by changing the location of the keyway on the Plunger Shaft.
 
@@ -38,7 +40,12 @@ Below is a link to a google sheets for the BOM (to be included) and print settin
 <details>
 <summary>Changes</summary>
 
-- 04-17-2023: Post Print Update 1 (v1.0.2)
+- 04-17-2023: Prototyping Update 2 (v1.0.3)
+	1. Updated Parts
+		- **Turnaround**
+			- Fixed barrel o-ring support structure
+			- Added clearance for locking nuts between Turnaround and lower magwell
+- 04-17-2023: Prototyping Update 1 (v1.0.2)
 	1. Updated Parts
 		- **Magwell Bottom**
 			- Added clearance for mag. It was quite tight.
