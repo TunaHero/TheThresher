@@ -17,10 +17,12 @@ The Thresher is a bullpup pump action springer with a caliburn air volume. This 
 
 Sort of following the nautical theme I started with my previous blaster design, this one is named after the thresher shark which is known for its rather long caudal fin i.e. the bullpup magazine hanging off the back of the blaster. Yes, the mag is hanging off the bottom and the thresher shark has a long top fin but I felt like the name fit pretty well so...
 
+```
 ### Design Overview
-![LeftSide1](Files/Images/LeftSide1.JPG)
-![RightSide1](Files/Images/RightSide1.JPG)
-![Front1](Files/Images/Front1.JPG)
+<img align="left" width="280" src="Files/Images/Front1.JPG" />
+<img align="right" width="700" src="Files/Images/LeftSide1.JPG" />
+<img align="right" width="700" src="Files/Images/RightSide1.JPG" />
+```
 
 The core of this blaster is designed around a 200mm linear rail. This rail theoretically should alleviate any torsional force while pulling back the pump. I wanted this smooth actuation whale also adding to the overall structural rigidity of the blaster which is why I ended up deciding to use the linear rail rather than a rod or bearings straight on aluminum bars. Now, this does add some significant cost to the overall design. The cheap rail I bought was still $15… In the future I may modify the design to use simple aluminum bars and forgo the linear rail but that is unplanned future work at the current moment.
 
