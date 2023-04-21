@@ -11,16 +11,31 @@ WARNING: THIS BLASTER IS UNTESTED. THERE MAY BE SERIOUS PROBLEMS WITH THE DESIGN
 
 The Thresher is a bullpup pump action springer with a caliburn air volume. This project started as a modification to the lynx... I am in love with my Worker Harrier and I wanted to put a linear bearing on the Lynx to match that smooooooooooth pull on the Harrier. One thing led to another and I ended up designing a pump around a linear rail instead. It then evolved into designing an entire blaster around the new pump… and here we are! It uses a 200mm low profile linear rail (just something I had laying around but they are rather cheap on amazon).
 
-![Thresher vs Lynx](Files/Images/ThresherVsLynx.JPG)
+<img style="width: 75%;" src="Files/Images/ThresherVsLynx.JPG">
 
-![Pic of Thresher Shark](https://www.zubludiving.com/images/Species/species_thresher_shark.jpg)
+<table>
+<tbody>
+  <tr>
+    <td width="40%"><img src="https://www.zubludiving.com/images/Species/species_thresher_shark.jpg" alt="thresher shark"></td>
+    <td><p>Sort of following the nautical theme I started with my previous blaster design, this one is named after the thresher shark which is known for its rather long caudal fin i.e. the bullpup magazine hanging off the back of the blaster. Yes, the mag is hanging off the bottom and the thresher shark has a long top fin but I felt like the name fit pretty well so...</p></td>
+  </tr>
+</tbody>
+</table>
 
-Sort of following the nautical theme I started with my previous blaster design, this one is named after the thresher shark which is known for its rather long caudal fin i.e. the bullpup magazine hanging off the back of the blaster. Yes, the mag is hanging off the bottom and the thresher shark has a long top fin but I felt like the name fit pretty well so...
 
 ### Design Overview
-![LeftSide1](Files/Images/LeftSide1.JPG)
-![RightSide1](Files/Images/RightSide1.JPG)
-![Front1](Files/Images/Front1.JPG)
+
+<table>
+<tbody>
+  <tr>
+    <td rowspan="2" width="20%" padding="0"><img src="Files/Images/Front1.JPG"></td>
+    <td width="80%" padding="0"><img src="Files/Images/LeftSide1.JPG" ></td>
+  </tr>
+  <tr>
+    <td width="80%" padding="0"><img src="Files/Images/RightSide1.JPG" ></td>
+  </tr>
+</tbody>
+</table>
 
 The core of this blaster is designed around a 200mm linear rail. This rail theoretically should alleviate any torsional force while pulling back the pump. I wanted this smooth actuation whale also adding to the overall structural rigidity of the blaster which is why I ended up deciding to use the linear rail rather than a rod or bearings straight on aluminum bars. Now, this does add some significant cost to the overall design. The cheap rail I bought was still $15… In the future I may modify the design to use simple aluminum bars and forgo the linear rail but that is unplanned future work at the current moment.
 
