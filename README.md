@@ -1,5 +1,5 @@
 # The Thresher
-## v1.0.4
+## v1.0.5 - Prototype Phase 1 Complete!
 
 ![Logo 1](Files/Images/Logo1.JPG)
 
@@ -7,7 +7,7 @@
 
 ![CAD view 1](Files/Images/FullPic1.JPG)
 
-WARNING: THIS BLASTER IS UNTESTED. THERE MAY BE SERIOUS PROBLEMS WITH THE DESIGN. PRINT AT YOUR OWN RISK.
+WARNING: THIS BLASTER IS NOT FINALIZED. THERE MAY BE SERIOUS PROBLEMS WITH THE DESIGN. PRINT AT YOUR OWN RISK.
 
 The Thresher is a bullpup pump action springer with a caliburn air volume. This project started as a modification to the lynx... I am in love with my Worker Harrier and I wanted to put a linear bearing on the Lynx to match that smooooooooooth pull on the Harrier. One thing led to another and I ended up designing a pump around a linear rail instead. It then evolved into designing an entire blaster around the new pump… and here we are! It uses a 200mm low profile linear rail (just something I had laying around but they are rather cheap on amazon).
 
@@ -22,6 +22,29 @@ The Thresher is a bullpup pump action springer with a caliburn air volume. This 
 </tbody>
 </table>
 
+### Prototype Reflection and Future Plans
+
+![In Hand 1](Files/Images/Prototype1/InHand1.jpg)
+
+The first prototype is complete! There were a few issues during development but nothing serious enough to make me think there were fundemental problems with the design. The biggest problem I faced was the slot in the pump bar. I had underestimated how hard it would be to create a centered and even slot in an aluminum bar with the tools that I have on hand. I am currently thinking of other ways I could implement the slot or possibly other tools that would make it easier. I ended up ordering a few pump bars from an online metal fabrication business. The cost was relatively close to the raw part cost from McMaster. I may just use this service into the future if I end up selling kits for this blaster.
+
+Aside from a few clearance and fit changes, there was only two real redesigns during the first prototyping phase. With some input from my brother I changed the geometry of the Trigger Link and Catch to allow for the blaster to actually fire. The intial design theoretically worked but in practice it the Trigger Link applied more of a up and backward force instead of just pushing the catch straight up. This made the force to overcome the catch quite significant which resulted in the Trigger Link bending instead of actuating the catch. The new design is way more reliable and it feels a lot better to pull the actual trigger. The new design also required the Trigger Link to rotate a bit farther so the Trigger Guard Core needed some structural changes to allow for this.
+
+The other major design change was the addition of a new support bar underneath the plunger tube between the Grip and the Turnaround. I noticed that there was a bit of deflection in the back portion of the blaster after firing it a few times. The new bar does add some material cost to the design but I feel that it is rather necessary for the overall structural rigidity of the back half of the blaster. I will be adding a spacer to cover this new bar in the future. Gotta keep that A E S T H E T I C up.
+
+![On Table 1](Files/Images/Prototype1/OnTable1.jpg)
+
+#### Future Plans
+
+There are some other design changes that I am seriously considering in future updates. The top support bar should probably extend up to the Turnaround at least. This would really help keep the overall rigidity of the blaster pretty solid.
+
+The Mag Release does not feel the greatest. I think this is mainly due to some clearance issues with the Butt Plate. The shape of the Mag Release was pulled from my other blaster project [The Fin](https://github.com/TunaHero/TheFin) (though I do not recommend printing that one right now... there are still some fundemental issues that need to be ironned out...). I just need to redesign the paddle portion of the mag release to give the user a bit more room to comfortably press it down.
+
+The Butt Plate could be bigger. It's about the same size as the butt of the Caliburn v4 but it still feels a bit small. Aesthetically it is a bit weird looking too...
+
+#### BETA TESTING
+
+In the near future I will be reaching out to some people to beta test this project! The material cost is rather high for some random project so I will be supplying the hardware and the testers just have to print the parts. I will update this page with the outcomes of the beta test.
 
 ### Design Overview
 
@@ -55,6 +78,30 @@ Below is a link to a google sheets for the BOM (to be included) and print settin
 <details>
 <summary>Changes</summary>
 
+- 04-25-2023: Prototype Phase 1 Complete (v1.0.5)
+	1. Updated Parts
+		- **Center Block**
+			- Change captive nut slots into holes to prevent stripping
+				- This reverted the previous changes to the slots
+		- **Turn Around**
+			- Updated barrel o-ring structure. It *should* work now...
+			- Updated Pusher seal
+			- Fixed a slicing/supports issue on back face. Now supports won't be generated in the nut holes
+			- Added new support bar hardware to give some more structure on the back end of the plunger
+		- **Nose**
+			- Added the barrel clearance that is present everywhere else in the blaster... I just missed this one...
+		- **Trigger Guard Core**
+			- Changed some geometry to allow for more trigger and trigger link movement
+		- **Trigger Link**
+			- Updated pokie shape to interact with the catch better
+			- Made the part thicker and taller to give some more structural rigidity
+				- Original design bent under the force required to move the catch
+		- **Plunger Catch**
+			- Removed chamfered front edge to give more surface area for the trigger link to press on
+				- Now the force from the link should be more directly upward meaning its easier to pull the trigger
+	2. Other Changes
+		- Updated the *Full Assembly v1* step file to reflect all of the part changes
+		- Added "Prototype Reflection and Future Plans"
 - 04-18-2023: Prototyping Update 3 (v1.0.4)
 	1. Updated Parts
 		- **Center Block**
