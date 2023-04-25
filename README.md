@@ -22,30 +22,6 @@ The Thresher is a bullpup pump action springer with a caliburn air volume. This 
 </tbody>
 </table>
 
-### Prototype Reflection and Future Plans
-
-![On Table 1](Files/Images/Prototype1/OnTable1.jpg)
-
-The first prototype is complete! There were a few issues during development but nothing serious enough to make me think there were fundemental problems with the design. The biggest problem I faced was the slot in the pump bar. I had underestimated how hard it would be to create a centered and even slot in an aluminum bar with the tools that I have on hand. I am currently thinking of other ways I could implement the slot or possibly other tools that would make it easier. I ended up ordering a few pump bars from an online metal fabrication business. The cost was relatively close to the raw part cost from McMaster. I may just use this service into the future if I end up selling kits for this blaster.
-
-Aside from a few clearance and fit changes, there was only two real redesigns during the first prototyping phase. With some input from my brother I changed the geometry of the Trigger Link and Catch to allow for the blaster to actually fire. The intial design theoretically worked but in practice it the Trigger Link applied more of a up and backward force instead of just pushing the catch straight up. This made the force to overcome the catch quite significant which resulted in the Trigger Link bending instead of actuating the catch. The new design is way more reliable and it feels a lot better to pull the actual trigger. The new design also required the Trigger Link to rotate a bit farther so the Trigger Guard Core needed some structural changes to allow for this.
-
-The other major design change was the addition of a new support bar underneath the plunger tube between the Grip and the Turnaround. I noticed that there was a bit of deflection in the back portion of the blaster after firing it a few times. The new bar does add some material cost to the design but I feel that it is rather necessary for the overall structural rigidity of the back half of the blaster. I will be adding a spacer to cover this new bar in the future. Gotta keep that *A E S T H E T I C* up.
-
-![In Hand 1](Files/Images/Prototype1/InHand1.jpg)
-
-#### Future Plans
-
-There are some other design changes that I am seriously considering in future updates. The top support bar should probably extend up to the Turnaround at least. This would really help keep the overall rigidity of the blaster pretty solid.
-
-The Mag Release does not feel the greatest. I think this is mainly due to some clearance issues with the Butt Plate. The shape of the Mag Release was pulled from my other blaster project [The Fin](https://github.com/TunaHero/TheFin) (though I do not recommend printing that one right now... there are still some fundemental issues that need to be ironned out...). I just need to redesign the paddle portion of the mag release to give the user a bit more room to comfortably press it down.
-
-The Butt Plate could be bigger. It's about the same size as the butt of the Caliburn v4 but it still feels a bit small. Aesthetically it is a bit weird looking too...
-
-#### BETA TESTING
-
-In the near future I will be reaching out to some people to beta test this project! The material cost is rather high for some random project so I will be supplying the hardware and the testers just have to print the parts. I will update this page with the outcomes of the beta test.
-
 ### Design Overview
 
 <table>
@@ -67,6 +43,30 @@ There are 2 main structural bars that give most of the nose to butt support for 
 ![Pump Gif](Files/Images/ThresherPump.gif)
 
 Currently this blaster uses 11in springs and a caliburn sized polycarbonate air tube. The base design compresses the 11in spring to 5.1in but this can easily be modified by changing the location of the keyway on the Plunger Shaft.
+
+### Prototype Reflection and Future Plans
+
+![On Table 1](Files/Images/Prototype1/OnTable1.jpg)
+
+The first prototype is complete! There were a few issues during development but nothing serious enough to make me think there were fundemental problems with the design. The biggest problem I faced was the slot in the pump bar. I had underestimated how hard it would be to create a centered and even slot in an aluminum bar with the tools that I have on hand. I am currently thinking of other ways I could implement the slot or possibly other tools that would make it easier. I ended up ordering a few pump bars from an online metal fabrication business. The cost was relatively close to the raw part cost from McMaster. I may just use this service into the future if I end up selling kits for this blaster.
+
+Aside from a few clearance and fit changes, there was only two real redesigns during the first prototyping phase. With some input from my brother I changed the geometry of the Trigger Link and Catch to allow for the blaster to actually fire. The intial design theoretically worked but in practice it the Trigger Link applied more of a up and backward force instead of just pushing the catch straight up. This made the force to overcome the catch quite significant which resulted in the Trigger Link bending instead of actuating the catch. The new design is way more reliable and it feels a lot better to pull the actual trigger. The new design also required the Trigger Link to rotate a bit farther so the Trigger Guard Core needed some structural changes to allow for this.
+
+The other major design change was the addition of a new support bar underneath the plunger tube between the Grip and the Turnaround. I noticed that there was a bit of deflection in the back portion of the blaster after firing it a few times. The new bar does add some material cost to the design but I feel that it is rather necessary for the overall structural rigidity of the back half of the blaster. I will be adding a spacer to cover this new bar in the future. Gotta keep that *~=A E S T H E T I C=~* up.
+
+![In Hand 1](Files/Images/Prototype1/InHand1.jpg)
+
+#### Future Plans
+
+There are some other design changes that I am seriously considering in future updates. The top support bar should probably extend up to the Turnaround at least. This would really help keep the overall rigidity of the blaster pretty solid.
+
+The Mag Release does not feel the greatest. I think this is mainly due to some clearance issues with the Butt Plate. The shape of the Mag Release was pulled from my other blaster project [The Fin](https://github.com/TunaHero/TheFin) (though I do not recommend printing that one right now... there are still some fundemental issues that need to be ironned out...). I just need to redesign the paddle portion of the mag release to give the user a bit more room to comfortably press it down.
+
+The Butt Plate could be bigger. It's about the same size as the butt of the Caliburn v4 but it still feels a bit small. Aesthetically it is a bit weird looking too...
+
+#### BETA TESTING
+
+In the near future I will be reaching out to some people to beta test this project! The material cost is rather high for some random project so I will be supplying the hardware and the testers just have to print the parts. I will update this page with the outcomes of the beta test.
 
 # BOM and Print Settings
 
