@@ -24,15 +24,15 @@ The Thresher is a bullpup pump action springer with a caliburn air volume. This 
 
 ### Prototype Reflection and Future Plans
 
-![In Hand 1](Files/Images/Prototype1/InHand1.jpg)
+![On Table 1](Files/Images/Prototype1/OnTable1.jpg)
 
 The first prototype is complete! There were a few issues during development but nothing serious enough to make me think there were fundemental problems with the design. The biggest problem I faced was the slot in the pump bar. I had underestimated how hard it would be to create a centered and even slot in an aluminum bar with the tools that I have on hand. I am currently thinking of other ways I could implement the slot or possibly other tools that would make it easier. I ended up ordering a few pump bars from an online metal fabrication business. The cost was relatively close to the raw part cost from McMaster. I may just use this service into the future if I end up selling kits for this blaster.
 
 Aside from a few clearance and fit changes, there was only two real redesigns during the first prototyping phase. With some input from my brother I changed the geometry of the Trigger Link and Catch to allow for the blaster to actually fire. The intial design theoretically worked but in practice it the Trigger Link applied more of a up and backward force instead of just pushing the catch straight up. This made the force to overcome the catch quite significant which resulted in the Trigger Link bending instead of actuating the catch. The new design is way more reliable and it feels a lot better to pull the actual trigger. The new design also required the Trigger Link to rotate a bit farther so the Trigger Guard Core needed some structural changes to allow for this.
 
-The other major design change was the addition of a new support bar underneath the plunger tube between the Grip and the Turnaround. I noticed that there was a bit of deflection in the back portion of the blaster after firing it a few times. The new bar does add some material cost to the design but I feel that it is rather necessary for the overall structural rigidity of the back half of the blaster. I will be adding a spacer to cover this new bar in the future. Gotta keep that A E S T H E T I C up.
+The other major design change was the addition of a new support bar underneath the plunger tube between the Grip and the Turnaround. I noticed that there was a bit of deflection in the back portion of the blaster after firing it a few times. The new bar does add some material cost to the design but I feel that it is rather necessary for the overall structural rigidity of the back half of the blaster. I will be adding a spacer to cover this new bar in the future. Gotta keep that *A E S T H E T I C* up.
 
-![On Table 1](Files/Images/Prototype1/OnTable1.jpg)
+![In Hand 1](Files/Images/Prototype1/InHand1.jpg)
 
 #### Future Plans
 
