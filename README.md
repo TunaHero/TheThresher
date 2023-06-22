@@ -319,6 +319,13 @@ Below is a link to a google sheets for the BOM (~~to be included~~ now included!
     <td>No</td>
   </tr>
   <tr>
+    <td>O1</td>
+    <td>Nose</td>
+    <td>Safety Orange</td>
+    <td>20%</td>
+    <td>No</td>
+  </tr>
+  <tr>
     <td colspan="5">Alternative Parts</td>
   </tr>
   <tr>
@@ -342,6 +349,11 @@ Below is a link to a google sheets for the BOM (~~to be included~~ now included!
 <details>
 <summary>Changes</summary>
 
+- 06-22-2023: Cleaning up and adding missing stuffs (v1.1.0.1)
+	1. Print settings table
+		- Missed Nose for some reason
+	2. BOM and Print Settings Google Sheets
+		- Added pics from README
 - 05-09-2023: Testing Changes - Round 1 (v1.1.0)
 	1. Updated Parts
 		- **Center Block**
@@ -445,8 +457,6 @@ Below is a link to a google sheets for the BOM (~~to be included~~ now included!
 - 04-13-2023: Initial Release (v1.0)
 
 </details>
-
-<!-- BOM -->
 
 <!-- Assembly Video -->
 
