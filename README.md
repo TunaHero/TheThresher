@@ -354,6 +354,7 @@ Below is a link to a google sheets for the BOM (~~to be included~~ now included!
 		- Missed Nose for some reason
 	2. BOM and Print Settings Google Sheets
 		- Added pics from README
+	3. Updated License
 - 05-09-2023: Testing Changes - Round 1 (v1.1.0)
 	1. Updated Parts
 		- **Center Block**
@@ -461,3 +462,9 @@ Below is a link to a google sheets for the BOM (~~to be included~~ now included!
 <!-- Assembly Video -->
 
 <!-- Q&A -->
+
+### Other Stuff
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
