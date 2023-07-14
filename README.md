@@ -355,6 +355,8 @@ Below is a link to a google sheets for the BOM (~~to be included~~ now included!
 			- My assumptions on K25 target compression was wrong. Added a spacer to get to appropriate amount of compression.
 		- **Plunger Cup - K25 High Compression**
 			- K25 Spacer integrated into the plunger cup
+	2. Other Changes
+		- Updated main .step file with **K25 Spacer** and **Plunger Cup - K25 High Compression**
 - 07-11-2023: Beta Testing Feedback Round 1 (v1.1.1)
 	1. Updated Parts
 		- **Middle Spacer**
